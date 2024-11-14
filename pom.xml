@@ -99,8 +99,8 @@
 						<configuration>
 							<inputSpec>${project.basedir}/src/main/resources/ms-customer-api.yml</inputSpec>
 							<generatorName>spring</generatorName>
-							<apiPackage>com.example.demo.api</apiPackage>
-							<modelPackage>com.example.demo.model</modelPackage>
+							<apiPackage>com.bootcamp.example.mscustomerapi.api</apiPackage>
+							<modelPackage>com.bootcamp.example.mscustomerapi.model</modelPackage>
 							<supportingFilesToGenerate>ApiUtil.java</supportingFilesToGenerate>
 							<configOptions>
 								<delegatePattern>true</delegatePattern>
